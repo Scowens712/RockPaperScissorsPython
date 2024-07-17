@@ -9,7 +9,7 @@ This project is a beginner's set up on creating the game "Rock, Paper, Scissors"
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>PowerShellt</b>
+- <b>PowerShell</b>
 - <b>IDLE</b>
 
 <h2>Environments Used </h2>
